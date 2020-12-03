@@ -66,3 +66,15 @@ The game is made with Python language,where I have used basics of python as a ke
 The game provides you with 5 chances of guessing the number and intresting hints will be displayed as soon as the game starts.
 I have also included error handling scripts.The modules used are Random module,Time module,System Specific module.
 
+*****6.EMAIL SLICER*****
+
+The email slicer is a quite handy program to get the username and domain name from an email address. You can play around and even customize it further and send a message to the user with this information. 
+
+An email can be divided into three parts 
+
+1.USERNAME
+2.MAIL SERVER NAME
+3.TOP LEVEL DOMAIN NAME
+
+For suppose the email is kavyashree3513@gmail.com then kavyashree3513 will become the username, gmail will be the mail server name and .com is the top level domain name.
+
