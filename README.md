@@ -54,3 +54,9 @@ For this project I have imported 5 modules. All the modules are provided by pyth
 4.	Csv module: For reading the dowmloaded csv file.
 
 5.	Time module: For implementing time gap for better user experiance. 
+
+
+*****TEXT BASED ROLLING DICE*****
+
+This project is a text based rolling dice simulator where the user can choose either rolling a single die or multiple dice. I have provided with an option of anytime exit from the terminal. It is a beginner level python mini project.
+
