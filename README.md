@@ -33,3 +33,24 @@ I have used python dictionary data structure to store the users infomation.
 
 
 It is a text based rock paper scissor game where the user can enter either rock or paper or scissor. The computer plays along with the user choosing random options. The probability of choosing the 3 options is equally likely. The game consists of 5 rounds who scores the more wins the game.
+
+
+*****3.MASTER TYPING*****
+
+NOTE: TO EXECUTE THIS CODE YOU MUST DOWNLOAD words.csv FILE.
+
+Master typing can be considered as a platform for practicing the accuracy of typing on keyboard. I have created a total score of 50 points where the user can practice 10 words every execution. The points are displayed at the end of the trial along with the time taken to complete the trial. There is an option of exiting from the execution.
+It allows the user to crosscheck the time taken to complete and hence realize improvement. I have used a csv file which contains 10,000 English words. 
+
+
+For this project I have imported 5 modules. All the modules are provided by python. 
+
+1.	Random module: For choosing random words from the given csv file.
+
+2.	System specific module: For exiting in between the execution.
+
+3.	Numpy: For creating array of lists of words from the csv file.
+
+4.	Csv module: For reading the dowmloaded csv file.
+
+5.	Time module: For implementing time gap for better user experiance. 
