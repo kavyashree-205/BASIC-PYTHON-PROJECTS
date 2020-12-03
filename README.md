@@ -73,7 +73,9 @@ The email slicer is a quite handy program to get the username and domain name fr
 An email can be divided into three parts 
 
 1.USERNAME
+
 2.MAIL SERVER NAME
+
 3.TOP LEVEL DOMAIN NAME
 
 For suppose the email is kavyashree3513@gmail.com then kavyashree3513 will become the username, gmail will be the mail server name and .com is the top level domain name.
