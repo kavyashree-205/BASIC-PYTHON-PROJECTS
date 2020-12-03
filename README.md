@@ -60,3 +60,9 @@ For this project I have imported 5 modules. All the modules are provided by pyth
 
 This project is a text based rolling dice simulator where the user can choose either rolling a single die or multiple dice. I have provided with an option of anytime exit from the terminal. It is a beginner level python mini project.
 
+*****5.GUESS THE NUMBER GAME*****
+
+The game is made with Python language,where I have used basics of python as a key measure to complete this mini project.
+The game provides you with 5 chances of guessing the number and intresting hints will be displayed as soon as the game starts.
+I have also included error handling scripts.The modules used are Random module,Time module,System Specific module.
+
