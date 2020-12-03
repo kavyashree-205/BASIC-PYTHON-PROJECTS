@@ -92,3 +92,5 @@ pip install captcha
 
 Now you are good to go..
 
+![](myimagecaptcha.png)
+
