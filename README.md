@@ -80,3 +80,15 @@ An email can be divided into three parts
 
 For suppose the email is kavyashree3513@gmail.com then kavyashree3513 will become the username, gmail will be the mail server name and .com is the top level domain name.
 
+*****7.CREATING AUDIO AND IMAGE CAPTCHA*****
+
+Captcha is a challenge provided to the users to detect whether the user is a human or spam robot. 
+
+This code can be implemented with jupyter notebook
+
+Start by installing captcha module
+
+pip install captcha
+
+Now you are good to go..
+
