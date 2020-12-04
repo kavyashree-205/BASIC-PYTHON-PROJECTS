@@ -94,3 +94,7 @@ Now you are good to go..
 
 ![](myimagecaptcha.png)
 
+### LICENSE
+
+LICENSED UNDER [MIT LICENSE](LICENSE)
+
