@@ -94,6 +94,10 @@ Now you are good to go..
 
 ![](myimagecaptcha.png)
 
+*****8.MADLIBS GENERATOR*****
+
+This is super easy and fun to make. The whole concept is string concatenation. You can create you own madlibs and have fun.
+
 ### LICENSE
 
 LICENSED UNDER [MIT LICENSE](LICENSE)
