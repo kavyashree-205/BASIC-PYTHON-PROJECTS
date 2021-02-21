@@ -100,7 +100,7 @@ This is super easy and fun to make. The whole concept is string concatenation. Y
 
 *****9.HANGMAN GAME*****
 
-Hangman game mainly concentrates in the basic concepts of python. The concepts involved are functions, lists, strings and error handling. I have created a python file containing list of words.It contains 2466 english words. I have filtered words having lenght below 4 and above 10 to reduce complexity. The user should guess the word before man gets hanged.
+Hangman game mainly concentrates in the basic concepts of python. The concepts involved are functions, lists, strings and error handling. I have created a python file containing list of words(wordslist.py).It contains 2466 english words. I have filtered words having lenght below 4 and above 10 to reduce complexity. The user should guess the word before man gets hanged.
 
 ### LICENSE
 
